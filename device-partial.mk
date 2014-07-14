@@ -14,9 +14,6 @@
 
 # FUHU_INC blob(s) necessary for Nabi2_XD hardware
 PRODUCT_PACKAGES := \
-    sensors-config \
-    camera.tegra3 \
+    camera.tegra \
     sensors.nabi2_xd \
-    libsensors.lightsensor \
-    libdrmwvmplugin \
-    libwvm
+    lights.nabi2_xd \

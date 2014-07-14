@@ -1,0 +1,19 @@
+changing files around to match what is on the tablet itself.
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# HEAD detached at b0bf7e6
+# Changes to be committed:
+#	modified:   BoardConfigVendor.mk
+#	modified:   device-partial.mk
+#	modified:   device-vendor.mk
+#	modified:   proprietary/Android.mk
+#	new file:   proprietary/camera.tegra.so
+#	deleted:    proprietary/camera.tegra3.so
+#	deleted:    proprietary/libdrmwvmplugin.so
+#	deleted:    proprietary/libsensors.lightsensor.so
+#	deleted:    proprietary/libwvm.so
+#	new file:   proprietary/lights.nabi2_xd.so
+#	deleted:    proprietary/sensors-config
+#	deleted:    proprietary/sensors.grouper.so
+#	new file:   proprietary/sensors.nabi2_xd.so
+#

@@ -16,8 +16,6 @@ LOCAL_STEM := nabi2_xd/BoardConfigPartial.mk
 
 -include vendor/nabi2_xd/$(LOCAL_STEM)
 -include vendor/broadcom/$(LOCAL_STEM)
--include vendor/elan/$(LOCAL_STEM)
 -include vendor/invensense/$(LOCAL_STEM)
 -include vendor/nvidia/$(LOCAL_STEM)
--include vendor/nxp/$(LOCAL_STEM)
 -include vendor/widevine/$(LOCAL_STEM)
